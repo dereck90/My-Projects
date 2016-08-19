@@ -1,0 +1,22 @@
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.exe.config
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.exe
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.pdb
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.xml
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.Resources.resources
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.vbproj.GenerateResource.Cache
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.exe
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.xml
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.pdb
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.frmAdd.resources
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.frmModify.resources
+C:\Users\Dereck\AppData\Local\Temporary Projects\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.frmDelete.resources
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.exe.config
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.exe
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.pdb
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\bin\Debug\HealthCare Doctor Directory.xml
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.frmMain.resources
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare_Doctor_Directory.Resources.resources
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.vbproj.GenerateResource.Cache
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.exe
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.xml
+C:\Users\Dereck\Documents\Visual Studio 2013\Projects\HealthCare Doctor Directory\HealthCare Doctor Directory\obj\Debug\HealthCare Doctor Directory.pdb
