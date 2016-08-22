@@ -1,0 +1,18 @@
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.pdb
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\WindowsApplication1.frmTuitionCalc.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.vbproj.GenerateResource.Cache
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\bin\Debug\DereckTalaveraAsig4Tuition Calculation.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\WindowsApplication1.frmTuitionCalc.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraAsig4Tuition Calculation\DereckTalaveraAsig4Tuition Calculation\obj\x86\Debug\DereckTalaveraAsig4Tuition Calculation.vbproj.GenerateResource.Cache
