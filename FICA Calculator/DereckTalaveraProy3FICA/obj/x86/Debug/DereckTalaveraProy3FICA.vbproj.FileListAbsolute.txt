@@ -1,0 +1,18 @@
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.pdb
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.vbproj.GenerateResource.Cache
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\bin\Debug\DereckTalaveraProy3FICA.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy3FICA\DereckTalaveraProy3FICA\obj\x86\Debug\DereckTalaveraProy3FICA.vbproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.pdb
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\WindowsApplication1.frmContactInf.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.vbproj.GenerateResource.Cache
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.exe
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.xml
+C:\Users\Derito\documents\visual studio 2010\Projects\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.exe
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.pdb
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\bin\Debug\DereckTalaveraProy4Contactos.xml
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\WindowsApplication1.frmContactInf.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dereck\Desktop\Prog\DereckTalaveraProy4Contactos\DereckTalaveraProy4Contactos\obj\x86\Debug\DereckTalaveraProy4Contactos.vbproj.GenerateResource.Cache
